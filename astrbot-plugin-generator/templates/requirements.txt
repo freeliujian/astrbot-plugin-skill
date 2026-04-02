@@ -1,0 +1,7 @@
+# Add your third-party dependencies here
+# Examples:
+# aiohttp>=3.8.0
+# httpx>=0.24.0
+# pydantic>=2.0.0
+
+# Note: Do NOT include astrbot as a dependency

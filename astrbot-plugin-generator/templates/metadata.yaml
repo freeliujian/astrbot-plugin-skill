@@ -1,0 +1,19 @@
+name: astrbot_plugin_<name>
+display_name: "<display_name>"
+desc: "<description>"
+author: "<author>"
+version: "0.1.0"
+repo: ""
+
+# Optional: specify supported platforms
+# support_platforms:
+#   - telegram
+#   - aiocqhttp
+#   - discord
+#   - qq_official
+#   - wecom
+#   - dingtalk
+#   - lark
+
+# Optional: AstrBot version constraint (PEP 440 format)
+# astrbot_version: ">=4.16,<5"
